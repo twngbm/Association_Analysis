@@ -1,3 +1,4 @@
+本實作為Data_mining Project1
 # Association_Analysis
 利用IBM Quest Synthetic Data Generator 來產生隨機的資料集，並用於關聯性分析  
 在main.py中實作以下幾點  
